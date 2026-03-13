@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "PubMatrixR"]
+	path = PubMatrixR
+	url = https://github.com/toledoem/pubmatrixr-v2
 [submodule "xkcd"]
 	path = xkcd
 	url = https://github.com/toledoem/xkcd
